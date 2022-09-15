@@ -1,6 +1,5 @@
 # Lo primero es mostrar en pantalla el texto de bienvenida para quien juegue tu trivia
 print ("Bienvenido a mi trivia sobre la serie Game of Thrones")
-[Demo](https://replit.com/@Mirella02/Trivia-GO)
 ##
 print ("Pondremos a prueba tus conocimientos")
 
